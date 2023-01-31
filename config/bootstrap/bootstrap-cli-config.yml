@@ -64,7 +64,7 @@ bootstrap:
                 idp-source-id: a51b652a-2bd1-4c60-a6ed-3643145e9fca # for the AAD Group to be matched to cdf-group
                 idp-source-name: bootcamp-22-test-all-owner # i.e. bootcamp-01-test-all-owner
               - cdf-group: cdf:all:read
-                idp-source-id: 551d77508-f5bf-499d-ba42-d5e5074985dd # for the AAD Group to be matched to cdf-group
+                idp-source-id: 2ce9480d-6e65-476c-ac9d-bdae13b7f383 # for the AAD Group to be matched to cdf-group
                 idp-source-name: bootcamp-22-test-all-read # i.e. bootcamp-01-test-all-read
 
 
